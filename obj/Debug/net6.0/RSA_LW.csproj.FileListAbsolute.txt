@@ -1,0 +1,15 @@
+/home/maksim/RiderProjects/RSA_LW/bin/Debug/net6.0/RSA_LW
+/home/maksim/RiderProjects/RSA_LW/bin/Debug/net6.0/RSA_LW.deps.json
+/home/maksim/RiderProjects/RSA_LW/bin/Debug/net6.0/RSA_LW.runtimeconfig.json
+/home/maksim/RiderProjects/RSA_LW/bin/Debug/net6.0/RSA_LW.dll
+/home/maksim/RiderProjects/RSA_LW/bin/Debug/net6.0/RSA_LW.pdb
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.csproj.AssemblyReference.cache
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.AssemblyInfoInputs.cache
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.AssemblyInfo.cs
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.csproj.CoreCompileInputs.cache
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.dll
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/refint/RSA_LW.dll
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.pdb
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/RSA_LW.genruntimeconfig.cache
+/home/maksim/RiderProjects/RSA_LW/obj/Debug/net6.0/ref/RSA_LW.dll
